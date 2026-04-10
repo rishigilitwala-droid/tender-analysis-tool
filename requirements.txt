@@ -1,15 +1,5 @@
-# Tender Analysis Tool
-
-This app lets you upload PDF, Word, or Excel tender documents and generates AI-powered summary cards.
-
-## Features
-- Upload PDF, Word, Excel files
-- AI-powered summaries
-- Customizable card style, detail level, and fields
-
-## How to Deploy
-1. Fork this repo to your GitHub account.
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud).
-3. Connect your GitHub repo.
-4. Deploy the app (select `app.py` as the entry point).
-5. Done! You’ll get a public link to share.
+streamlit
+pdfplumber
+python-docx
+pandas
+gpt4all
